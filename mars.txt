@@ -3,3 +3,4 @@ This is line 2.
 This is line 3.
 Considering venus as a base.   
 Mars is cold.
+map.geo.admin.ch = map for planing your hike
