@@ -1,1 +1,2 @@
-This is the mars file. 
+This is the mars file.
+This is line 2.  
